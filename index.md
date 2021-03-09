@@ -1,3 +1,8 @@
+Information
+Post-doc at the Institut Fourier in Grenoble (01/2021-...).
+Supervisor: Jean-Pierre Demailly
+Email: xiaojun.wu@univ-grenoble-alpes.fr
+My current research lies on Kähler Geometry,  Complex Analytic Geometry,  Birational Geometry.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xiaojun-wu-0127/xiaojun-wu-0127.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
